@@ -12,4 +12,5 @@ Language : Python3
 ### Sample Input present in the txt files named safari.txt,chrome.txt, firefox.txt
 
 ### Sample Output Screent-Shoot
+![alt text](https://github.com/prathmesh-parmar/SAP_concur/blob/master/output.png)
 
