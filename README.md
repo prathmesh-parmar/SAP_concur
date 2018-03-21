@@ -9,8 +9,9 @@ Language : Python3
    pip3 install requests
    ```
 3. Run using command:
+```
    python3 bookmark.py
-
+```
 ### Sample Input present in the txt files:
 safari.txt,chrome.txt, firefox.txt
 
