@@ -46,7 +46,7 @@ for key, values in orignal_urls.items():
     except:
         print("Please check the URL "+ values +" and try again")
 
-for key, value in sorted(mapping.items()): #Make a dictionary where key would be the orinal url and values will be list of redirecting urls
+for key, value in sorted(mapping.items()): #Make a dictionary where key would be the orignal url and values will be list of redirecting urls
     final_url_dict.setdefault(value, []).append(key)
 
 
